@@ -548,18 +548,20 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+## 👤 Team / Penyusun
 
-**[Your Name]**
-- 📧 Email: `your.email@student.telkomuniversity.ac.id`
-- 🎓 NIM: `XXXXXXXXXX`
+| Nama Mahasiswa | NIM |
+|---|---|
+| Tyas Nur Kumala | 1301213030 |
+| Mirekel Ilham Akbar | 103012330486 |
+| Yudhistira Maulana Samaratungga | 103012330011 |
+
 - 🏫 Faculty: Informatika — Telkom University
-- 🔗 GitHub: [@your-github-username](https://github.com/your-github-username)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🔗 GitHub: [@tyasnurkumala2](https://github.com/tyasnurkumala2)
 
 **Supervisor / Pembimbing KP**
-- **Internal**: [Dosen Pembimbing Internal]
-- **External**: [Pembimbing Lapangan — Satgas AI FIF]
+- **Internal**: *(belum ditentukan)*
+- **External**: Dr. Nur Ghaniaviyanto Ramadhan, S.Kom., M.Kom.
 
 ---
 
